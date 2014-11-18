@@ -1,2 +1,6 @@
 Este es un archivo de prueba
+<<<<<<< HEAD
 Este es mi nuevo comentario en el arhivo
+=======
+Probando
+>>>>>>> origin/master
