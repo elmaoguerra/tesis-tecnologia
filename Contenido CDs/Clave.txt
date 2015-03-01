@@ -1,0 +1,4 @@
+La ejecución de este software no requiere el uso de clavesde acceso.
+
+Para iniciar la aplicación haga doble clic sobre el acceso directo Horarios_1.0
+ubicado en el folder del Software.
