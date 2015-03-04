@@ -1,4 +1,22 @@
-La ejecución de este software no requiere el uso de clavesde acceso.
+Una vez instalado Java (Véase Anexos/ANEXO C. Manual de Instalación) realice los 
+siguientes pasos para la ejecución de la aplicación:
 
-Para iniciar la aplicación haga doble clic sobre el acceso directo Horarios_1.0
-ubicado en el folder del Software.
+Opción 1
+
+1. Inserte el cd
+2. Diríjase al directorio Software/Horarios_0.1/dist/
+3. Ubique el archivo Horarios_0.1.jar y haga doble clic para abrir.
+
+Opción 2
+
+SI desea ejecutar la aplicación desde otra carpeta:
+
+1. Inserte el cd
+2. Diríjase al directorio Software/Horarios_0.1/dist/
+3. Ubique el archivo Horarios_0.1.jar y cree un acceso directo.
+4. Copie el acceso directo creado y guárdelo en su PC.
+5. Ejecute el acceso directo.
+
+NOTAS: El software no requiere de claves de instalación o de acceso.
+Es necesario tener conexión a internet. 
+Durante la ejecución de la aplicación no retire el cd del equipo.
