@@ -17,6 +17,7 @@ SI desea ejecutar la aplicación desde otra carpeta:
 4. Copie el acceso directo creado y guárdelo en su PC.
 5. Ejecute el acceso directo.
 
-NOTAS: El software no requiere de claves de instalación o de acceso.
+NOTAS: 
+El software no requiere de claves de instalación o de acceso.
 Es necesario tener conexión a internet. 
 Durante la ejecución de la aplicación no retire el cd del equipo.
